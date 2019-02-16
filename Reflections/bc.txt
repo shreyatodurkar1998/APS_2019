@@ -1,0 +1,6 @@
+Methods of generating bionomial co-efficients:
+1.A 2D matric of coefficients can be created.
+2.Use of recursion to query each C(n,k).
+3.Dynamic Programming to produce 1D array for each n,k.
+
+For few queries, Dp would be efficient. For frequent queries maintaining a 2D matrics is more efficient and computationally less expensive.
